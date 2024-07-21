@@ -49,4 +49,3 @@ def greatest_common_factor(a, b):
             common_factors.append(factor)
             factors_b.remove(factor)
     return common_factors
-
